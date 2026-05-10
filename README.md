@@ -2,8 +2,7 @@
 - 👀 Yazılım için uğraşıyorum.
 - 🌱 Şu anda yeni projeler geliştirmek için çalışıyorum.
 - 💞️ İş birliği yapmak isteyenler iletişime geçebilir.
-- 📫 iletişim için tel=05394392619
-- lütfen whatsapptan mesaj atınız.
+- 📫 iletişim için:okaya9698gmail.com
 
 <!---
 erkankya/erkankya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
